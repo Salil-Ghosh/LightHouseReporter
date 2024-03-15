@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "lighthouse": "^9.6.8",
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^10.0.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "sanitize-filename": "^1.6.3"
+  },
+  "description": ""
+}
